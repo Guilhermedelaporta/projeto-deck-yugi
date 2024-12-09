@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+.carta {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        background-color: #ECE2A4;
+        border: 6px solid #000;
+        border-radius: 10px;
+        width: 300px;
+        padding: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin: 10px;
+    }
+
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #000;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+.titulo-carta {
+    text-align: start;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+
+.level-carta {
+    display: flex;
+    flex-direction: row;
+}
+
+h3 {
+    color: black;
+    text-shadow: 1px 1px 2px white, 0 0 40px black, 0 0 10px blue;
+}
+
+header img {
+    width: 20px;
+    height: 20px;
+}
+
+.img-monstro {
+    border: 6px solid white;
+    border-radius: 5px;
+}
+
+.paragrafo-inf {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 2px solid #000;
+    padding: 8px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+.habilidades {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+    padding-right: 5px;
+    align-items: end;
+    gap: 10px;
+    border: 2px solid;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.deck {
+display: grid;
+grid-template-columns: 3, 1fr;
+}
