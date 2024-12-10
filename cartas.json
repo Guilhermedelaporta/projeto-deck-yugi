@@ -1,0 +1,63 @@
+[
+    {
+      "nomeMonstro": "Elfa Mística",
+      "imgAtributo":"/atb/atb-luz.webp",
+      "imgLevel": ["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+      "imgMonstro":"/img/elfa-mistica.jpg",
+      "tipoMonstro":"Mago",
+      "caracteristica":"Uma elfa delicada com pouco poder de ataque, mas com uma incrível defesa proveniente de poderes místicos.",
+      "atkMonstro":"ATK/800",
+      "defMonstro":"DEF/2000",
+      "edicMonstro":"15025844 1ª Edição",
+      "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+    },
+    {
+      "nomeMonstro":"Diabrete Selvagem",
+      "imgAtributo":"/atb/atb-trevas.webp",
+      "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+      "imgMonstro":"/img/diabrete-selvagem.jpeg",
+      "tipoMonstro":"Demônio",
+      "caracteristica":"Um pequeno demônio brincalhão que se esconde na escuridão, esperando para atacar um inimigo descuidado.",
+      "atkMonstro":"ATK/1300",
+      "defMonstro":"DEF/1400",
+      "edicMonstro":"41392891 1ª Edição",
+      "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+    },
+    {
+        "nomeMonstro":"Dragão Alado, Guardião da Fortaleza Nº1",
+        "imgAtributo":"/atb/atb-vento.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/dragao-alado-guardiao-da-fortaleza.jpg",
+        "tipoMonstro":"Dragão",
+        "caracteristica":"Um dragão normalmente encontrado protegendo fortalezas das montanhas. O seu ataque característico é um mergulho arrebatador vindo do céu.",
+        "atkMonstro":"ATK/1400",
+        "defMonstro":"DEF/1200",
+        "edicMonstro":"87796900 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Caveira Invocada",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/caveira-invocada.jpg",
+        "tipoMonstro":"Demônio",
+        "caracteristica":"Um demônio com poderes das trevas para confundir os inimigos. Entre os monstros do tipo demônio, é dos mais fortes.(Este card deve ser sempre considerado como um card 'Arquidemônio'.)",
+        "atkMonstro":"ATK/2500",
+        "defMonstro":"DEF/1200",
+        "edicMonstro":"70781052 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Castor Guerreiro",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/castor-guerreiro.jpg",
+        "tipoMonstro":"Besta-Guerreira",
+        "caracteristica":"O que esta criatura falta em tamanho ele compensa em defesa quando lutando na pradaria",
+        "atkMonstro":"ATK/1200",
+        "defMonstro":"DEF/1500",
+        "edicMonstro":"32452818 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      }
+    
+  ]
