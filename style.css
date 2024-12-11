@@ -1,110 +1,163 @@
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-main {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
+header {
+  background-color: #5a3825;
+  padding: 15px 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .titulo-principal {
+  padding: 20px;
+  border: 2px solid red;
+  color: #ffeb3b;
+  font-size: 2rem;
+  margin: 0;
+  text-shadow: 2px 2px 4px black;
+}
+
+/* Estilo geral */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+  padding: 20px;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.deck {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
   justify-content: center;
 }
 
 .carta {
+  width: 300px;
+  height: 600px;
+  background: linear-gradient(to bottom, #d4c89c, #b59e6a);
+  border: 3px solid #5a3825;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.3s;
+}
+
+.carta:hover {
+  transform: scale(1.05);
+}
+
+/* Header da carta */
+header {
+  background-color: #5a3825;
+  padding: 5px;
+  color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
-  background-color: #ece2a4;
-  border: 6px solid #000;
-  border-radius: 10px;
-  width: 300px;
-  padding: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  margin: 10px;
 }
 
-header {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background-color: 0 4px 8px rgba(0, 0, 0, 0.2);
-  color: #000;
-  padding: 10px;
-  border-radius: 10px;
-  border: 1px solid;
-}
 .titulo-carta {
-  text-align: start;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 2px;
+
+  width: 100%;
 }
 
-.level-carta {
-  display: flex;
-  flex-direction: row;
+.titulo-carta h3 {
+  font-size: 1rem;
+  margin: 0;
+  text-align: center;
+  color: #ffeb3b;
+  text-shadow: 1px 1px 2px black;
 }
 
-h3 {
-  color: black;
-  text-shadow: 1px 1px 2px white, 0 0 40px black, 0 0 10px blue;
-}
-
-header img {
+.titulo-carta img {
   width: 20px;
   height: 20px;
 }
 
-.img-monstro {
-  border: 6px solid white;
-  border-radius: 5px;
+.level-carta {
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+  margin-top: 5px;
 }
 
+.level-carta img {
+  width: 15px;
+  height: 15px;
+} 
+
+/* Imagem do monstro */
+.img-monstro {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+  border-top: 2px solid #5a3825;
+  border-bottom: 2px solid #5a3825;
+}
+
+/* Informação da carta */
 .paragrafo-inf {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  border: 2px solid #000;
-  padding: 8px;
-  margin-top: 3px;
-  border-radius: 5px;
+  padding: 10px;
+  background-color: #f3e4c2;
+  color: #333;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.paragrafo-inf h4 {
+  margin: 5px 0;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.paragrafo-inf p {
+  margin: 5px 0;
+  font-size: 0.8rem;
+  line-height: 1.2;
 }
 
 .habilidades {
   display: flex;
   justify-content: space-between;
-  padding-left: 5px;
-  padding-right: 5px;
-  align-items: end;
-  gap: 10px;
-  border: 2px solid;
-  border-radius: 3px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
-.deck {
-  display: flex;
+.habilidades p {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: bold;
 }
 
-.rodape {
-  display: flex;
-  justify-content:center;
-  gap: 20px;
-  padding: 20px;
-}
-
+/* Rodapé da carta */
 .footer-carta {
+  background-color: #5a3825;
+  color: #fff;
+  padding: 5px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 10px;
-  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+footer.rodape {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #5a3825;
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
 }

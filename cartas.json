@@ -58,6 +58,176 @@
         "defMonstro":"DEF/1500",
         "edicMonstro":"32452818 1ª Edição",
         "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Mago Negro",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/magonegro.jpg",
+        "tipoMonstro":"Mago",
+        "caracteristica":"O mago definitivo em termos de ataque e defesa.",
+        "atkMonstro":"ATK/2500",
+        "defMonstro":"DEF/2100",
+        "edicMonstro":"46986414 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Gaia, o Cavaleiro Impetuoso",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/gaia.jpg",
+        "tipoMonstro":"Guerreiro",
+        "caracteristica":"Um cavaleiro cujo cavalo galopa mais rápido do que o vento. A sua carga de batalha é de uma força avassaladora.",
+        "atkMonstro":"ATK/2300",
+        "defMonstro":"DEF/2100",
+        "edicMonstro":"06368038 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Maldição do Dragão",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/maldicao-do-dragao.jpg",
+        "tipoMonstro":"Dragão",
+        "caracteristica":"Um dragão perverso que se apoia nas forças das trevas para executar um poderoso ataque.",
+        "atkMonstro":"ATK/2000",
+        "defMonstro":"DEF/1500",
+        "edicMonstro":"28279543 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Guardião Celta",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/guardiao-celta.jpg",
+        "tipoMonstro":"Guerreiro",
+        "caracteristica":"Um elfo que aprendeu a empunhar uma espada e confunde os inimigos com ataques relâmpagos.",
+        "atkMonstro":"ATK/1400",
+        "defMonstro":"DEF/1200",
+        "edicMonstro":"91152256 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"O Grande Branco",
+        "imgAtributo":"/atb/atb-agua.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/grande-branco.webp",
+        "tipoMonstro":"Peixe",
+        "caracteristica":"Um tubarão branco gigante com dentes afiados como lâminas.",
+        "atkMonstro":"ATK/1600",
+        "defMonstro":"DEF/800",
+        "edicMonstro":"13429800 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"O Presa de Prata",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/presa-prata.png",
+        "tipoMonstro":"Besta",
+        "caracteristica":"Um lobo da neve que, embora agrade aos olhos, é absolutamente feroz em batalha.",
+        "atkMonstro":"ATK/1200",
+        "defMonstro":"DEF/800",
+        "edicMonstro":"90357090 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Soldado de Pedra Gigante",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/soldado-pedra.jpg",
+        "tipoMonstro":"Rocha",
+        "caracteristica":"Um guerreiro gigante feito de pedra. Um soco desta criatura faz com que a terra estremeça.",
+        "atkMonstro":"ATK/1300",
+        "defMonstro":"DEF/2000",
+        "edicMonstro":"13039848 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Dragão Zumbi",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/dragao-zumbi.jpg",
+        "tipoMonstro":"Zumbi",
+        "caracteristica":"Um dragão renascido por feitiçaria. O seu hálito é altamente corrosivo.",
+        "atkMonstro":"ATK/1600",
+        "defMonstro":"DEF/0",
+        "edicMonstro":"66672569 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Doma, O Anjo do Silêncio",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/doma.jpg",
+        "tipoMonstro":"Fada",
+        "caracteristica":"Este anjo governa a morte e administra-a quando necessário.",
+        "atkMonstro":"ATK/1600",
+        "defMonstro":"DEF/1400",
+        "edicMonstro":"16972957 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Ansatsu",
+        "imgAtributo":"/atb/atb-terra.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/anatsu.webp",
+        "tipoMonstro":"Guerreiro",
+        "caracteristica":"Um guerreiro silencioso e mortal especializado em assassínios.",
+        "atkMonstro":"ATK/1700",
+        "defMonstro":"DEF/1200",
+        "edicMonstro":"48365709 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Fantasma Sarcástico",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/fantasma-sarcastico.webp",
+        "tipoMonstro":"Demônio",
+        "caracteristica":"Vestido com um smoking preto como a noite, esta criatura preside à morte.",
+        "atkMonstro":"ATK/1400",
+        "defMonstro":"DEF/1300",
+        "edicMonstro":"36304921 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Estende Garras",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/estende-garras.webp",
+        "tipoMonstro":"Demônio",
+        "caracteristica":"Braços que esticam e garras afiadas com lâminas fazem deste monstro um oponente formidável.",
+        "atkMonstro":"ATK/1000",
+        "defMonstro":"DEF/800",
+        "edicMonstro":"41218256 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Palhaço Místico",
+        "imgAtributo":"/atb/atb-trevas.webp",
+        "imgLevel":["/atb/Level.webp","/atb/Level.webp","/atb/Level.webp","/atb/Level.webp"],
+        "imgMonstro":"/img/palhaco-mistico.webp",
+        "tipoMonstro":"Demônio",
+        "caracteristica":"Nada pode parar o ataque enlouquecido desta poderosa criatura.",
+        "atkMonstro":"ATK/1500",
+        "defMonstro":"DEF/1000",
+        "edicMonstro":"47060154 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
+      },
+      {
+        "nomeMonstro":"Espada Sombria da Destruição",
+        "imgAtributo":"/atb/atb-magia.webp",
+        "imgLevel":["atb/equipamento.webp"],
+        "imgMonstro":"/img/espada.jpg",
+        "tipoMonstro":"Equipamento",
+        "caracteristica":"Um monstro das TREVAS equipado com este card aumenta o seu ATK em 400 pontos e diminui o seu DEF em 200 pontos.",
+        "atkMonstro":"ATK + 400",
+        "defMonstro":"DEF + 200",
+        "edicMonstro":"37120512 1ª Edição",
+        "fabMonstro":"&copy; 1996 KAZUKI TAKAHASHI"
       }
+      
+
     
   ]

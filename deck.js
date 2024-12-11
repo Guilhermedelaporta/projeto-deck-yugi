@@ -17,7 +17,7 @@ function montaDeck() {
   <header>
     <div class="titulo-carta">
       <h3>${umaCarta.nomeMonstro}</h3>
-      <img src="${umaCarta.imgAtributo}" alt="Atributo Luz" />
+      <img src="${umaCarta.imgAtributo}" alt="Atributo Luz" class="atributo"/>
     </div>
     <div class="level-carta">
       ${umaCarta.imgLevel.map(function (urlImagem){
